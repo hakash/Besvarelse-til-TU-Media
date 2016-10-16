@@ -1,0 +1,14 @@
+Oppgave 1:
+Skriv/skisser hvordan du ville forbedret visningen og interaksjonen av en stillingannonse på TUJobb. Brukeropplevelse og konverteringer, inkludert verdi for annonsør er i fokus.
+Eksempel: http://jobb.tu.no/jobs/it/87444-frontend-og-backendutvikler
+
+Oppgave 2:
+Bruk PHP eller Ruby til å hente ut data fra en database. Hent ut alle artiklene og forfatternavn.
+Dataene skal returneres i JSON og presenteres som en liste på en enkel nettside. Enkel css-stiling for å få det til å se ok ut.
+En SQL-dump med tabelloppsett og noen rader med data er vedlagt.
+
+Oppgave 3:
+Skrap artikkelarkivet på Tek.no. Finn alle saker som omhandler Ivy Bridge som ble publisert i 2012.
+Hent ned tittel, toppbilde, forfatter, dato, antall kommentarer og url. Grupper per forfatter og sorter på antall kommentarer.
+Dump datasettet til en fil.
+http://www.tek.no/artikler?q=ivy+bridge
