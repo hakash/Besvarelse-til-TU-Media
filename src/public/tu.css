@@ -1,0 +1,43 @@
+html, body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 14px;
+	width: 100%;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+	margin: 20px;
+}
+
+.list_row:nth-child(odd) {
+	background-color: #eeeeee;
+}
+
+#liste {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+.list_row {
+	padding: 5px;
+	width: 100%;
+	border: 1px solid silver;
+	margin-bottom: 5px;
+}
+
+.list_row div {
+	margin-bottom: 5px;
+}
+
+.title {
+	font-size: 16px;
+	font-weight: bold;
+	width: 100%;
+}
+
+.author, .published {
+	font-style: italic;
+	font-size: 12px;
+}

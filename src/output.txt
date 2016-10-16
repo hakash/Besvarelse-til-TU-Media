@@ -1,0 +1,265 @@
+{
+    "Rolf B. Wegner": [
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/dette-er-ivy-bridge\/108515",
+            "title": "Dette er Ivy Bridge",
+            "image": "http:\/\/img.gfx.no\/1022\/1022516\/1.jpg",
+            "published": "2012-04-23T18:00:18+02:00",
+            "author": "Rolf B. Wegner",
+            "numComments": "12"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/intel-senker-trolig-prisene-pa-ivy-bridge\/106942",
+            "title": "Intel senker trolig prisene på Ivy Bridge",
+            "image": "http:\/\/img.gfx.no\/1007\/1007945\/1.jpg",
+            "published": "2012-02-23T13:07:03+01:00",
+            "author": "Rolf B. Wegner",
+            "numComments": "20"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/hva_venter_oss_i_2012\/105006",
+            "title": "Hva venter oss i 2012?",
+            "image": "http:\/\/img.gfx.no\/992\/992879\/1.jpg",
+            "published": "2012-01-01T09:00:59+01:00",
+            "author": "Rolf B. Wegner",
+            "numComments": "21"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/ivy-bridge-lansering-rett-rundt-hjornet\/108322",
+            "title": "Ivy Bridge-lansering trolig fremskyndet",
+            "image": "http:\/\/img.gfx.no\/1021\/1021256\/1.jpg",
+            "published": "2012-04-12T12:24:32+02:00",
+            "author": "Rolf B. Wegner",
+            "numComments": "36"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/intel_tar_livet_av_mer_enn_25_prosessorer\/105248",
+            "title": "Intel tar livet av mer enn 25 prosessorer",
+            "image": "http:\/\/img.gfx.no\/949\/949411\/i7_1200x800.jpg",
+            "published": "2012-01-04T15:35:40+01:00",
+            "author": "Rolf B. Wegner",
+            "numComments": "55"
+        }
+    ],
+    "Vegar Jansen": [
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/samsung-slipper-spenstig-spillbaerbar\/111770",
+            "title": "Samsung slipper spenstig spillbærbar",
+            "image": "http:\/\/img.gfx.no\/1069\/1069211\/cropped.1200x675.jpeg",
+            "published": "2012-08-15T09:05:11+02:00",
+            "author": "Vegar Jansen",
+            "numComments": "0"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/vil-kutte-stromforbruket-til-ivy-bridge-prosessoren\/114978",
+            "title": "Vil kutte strømforbruket til Ivy Bridge-prosessoren",
+            "image": "http:\/\/img.gfx.no\/1077\/1077363\/cropped.1200x675.jpeg",
+            "published": "2012-12-05T09:49:30+01:00",
+            "author": "Vegar Jansen",
+            "numComments": "6"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/denne-fujitsuen-har-ivy-bridge\/107432",
+            "title": "SNIKTITT: Denne Fujitsuen har Ivy Bridge",
+            "image": "http:\/\/img.gfx.no\/1013\/1013984\/fujitsu_1.jpg",
+            "published": "2012-03-13T21:00:32+01:00",
+            "author": "Vegar Jansen",
+            "numComments": "8"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/dette-er-de-stromsvake-ivy-bridge-prosessorene\/115051",
+            "title": "Dette er de strømsvake Ivy Bridge-prosessorene",
+            "image": "http:\/\/img.gfx.no\/1108\/1108306\/intel_specs.png",
+            "published": "2012-12-06T17:15:09+01:00",
+            "author": "Vegar Jansen",
+            "numComments": "10"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/samsung-slipper-spenstig-spillbaerbar\/111746",
+            "title": "Samsung slipper spenstig spillbærbar",
+            "image": "http:\/\/img.gfx.no\/1069\/1069211\/cropped.1200x675.jpeg",
+            "published": "2012-08-14T20:00:43+02:00",
+            "author": "Vegar Jansen",
+            "numComments": "16"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/core-i3-for-stasjonaere-lever-videre\/108007",
+            "title": "Core i3 for stasjonære lever videre",
+            "image": "http:\/\/img.gfx.no\/814\/814278\/1.jpg",
+            "published": "2012-03-28T18:47:08+02:00",
+            "author": "Vegar Jansen",
+            "numComments": "28"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/ny-ekstremprosessor-kommer-i-november\/114174",
+            "title": "Ny ekstremprosessor kommer i november",
+            "image": "http:\/\/img.gfx.no\/862\/862990\/intel_core1000x667.jpg",
+            "published": "2012-11-06T13:30:17+01:00",
+            "author": "Vegar Jansen",
+            "numComments": "47"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/intels-neste-prosessor-har-fatt-spesifikasjoner\/115369",
+            "title": "Intels neste prosessor har fått spesifikasjoner",
+            "image": "http:\/\/img.gfx.no\/1112\/1112131\/SandyBridge_Wafer_Angle_169.jpg",
+            "published": "2012-12-18T15:41:54+01:00",
+            "author": "Vegar Jansen",
+            "numComments": "48"
+        }
+    ],
+    "Alexander Tøgard": [
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/asus-g55vw\/109351",
+            "title": "TEST: Asus G55VW",
+            "image": "http:\/\/img.gfx.no\/1031\/1031838\/ingress_normal.JPG",
+            "published": "2012-05-24T20:00:19+02:00",
+            "author": "Alexander Tøgard",
+            "numComments": "40"
+        }
+    ],
+    "Sindre Eldøy": [
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/asus-p8z77-v-pro\/108767",
+            "title": "TEST: Asus P8Z77-V Pro",
+            "image": "http:\/\/img.gfx.no\/1027\/1027722\/Ingress%203.jpg",
+            "published": "2012-05-22T20:30:42+02:00",
+            "author": "Sindre Eldøy",
+            "numComments": "24"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/intel-core-i7-3770k\/108606",
+            "title": "TEST: Intel Core i7 3770K",
+            "image": "http:\/\/img.gfx.no\/1023\/1023792\/ivy2.jpg",
+            "published": "2012-04-23T18:00:00+02:00",
+            "author": "Sindre Eldøy",
+            "numComments": "93"
+        }
+    ],
+    "Niklas Plikk": [
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/nye_intel-prosesorer_i_april\/105160",
+            "title": "Nye Intel-prosesorer i april",
+            "image": "http:\/\/img.gfx.no\/993\/993232\/pros169.jpg",
+            "published": "2012-01-02T13:15:42+01:00",
+            "author": "Niklas Plikk",
+            "numComments": "1"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/na-kommer-endelig-sonys-ultrabooker\/108900",
+            "title": "Nå kommer endelig Sonys ultrabooker",
+            "image": "http:\/\/img.gfx.no\/1026\/1026578\/sonyvaio1.jpg",
+            "published": "2012-05-02T16:00:26+02:00",
+            "author": "Niklas Plikk",
+            "numComments": "17"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/-_intel_ivy_bridge_kommer_i_april\/105153",
+            "title": "– Intel Ivy Bridge kommer i april",
+            "image": "http:\/\/img.gfx.no\/814\/814278\/1.jpg",
+            "published": "2012-01-02T11:25:20+01:00",
+            "author": "Niklas Plikk",
+            "numComments": "39"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/derfor-er-ivy-bridge-prosessorene-varme\/109242",
+            "title": "Derfor er Ivy Bridge-prosessorene varme",
+            "image": "http:\/\/img.gfx.no\/1030\/1030390\/intel1.jpg",
+            "published": "2012-05-14T13:00:53+02:00",
+            "author": "Niklas Plikk",
+            "numComments": "43"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/alienwares-spillverstinger-blir-enda-heftigere\/108874",
+            "title": "Alienwares spillverstinger blir enda heftigere",
+            "image": "http:\/\/img.gfx.no\/950\/950529\/2.jpg",
+            "published": "2012-05-02T12:00:58+02:00",
+            "author": "Niklas Plikk",
+            "numComments": "44"
+        }
+    ],
+    "Jørgen Elton Nilsen": [
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/asus-slipper-roff-baerbar-for-spillere\/109019",
+            "title": "Asus slipper røff bærbar for spillere",
+            "image": "http:\/\/img.gfx.no\/1027\/1027777\/asus2.jpg",
+            "published": "2012-05-07T11:30:11+02:00",
+            "author": "Jørgen Elton Nilsen",
+            "numComments": "1"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/amd-senker-prosessor-prisene\/108846",
+            "title": "AMD senker prosessor-prisene",
+            "image": "http:\/\/img.gfx.no\/1025\/1025702\/bull2.jpg",
+            "published": "2012-04-30T14:30:21+02:00",
+            "author": "Jørgen Elton Nilsen",
+            "numComments": "9"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/intel-bekrefter-haswell-lansering\/113654",
+            "title": "Intel bekrefter Haswell-lansering",
+            "image": "http:\/\/img.gfx.no\/1090\/1090094\/has1.jpg",
+            "published": "2012-10-18T09:57:04+02:00",
+            "author": "Jørgen Elton Nilsen",
+            "numComments": "16"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/asus-slipper-roff-baerbar-for-spillere\/108999",
+            "title": "Asus slipper røff bærbar for spillere",
+            "image": "http:\/\/img.gfx.no\/1027\/1027777\/asus2.jpg",
+            "published": "2012-05-07T05:30:07+02:00",
+            "author": "Jørgen Elton Nilsen",
+            "numComments": "24"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/intels-nye-flaggskip-prosessor-forsinket\/106725",
+            "title": "Intels nye flaggskip-prosessor forsinket",
+            "image": "http:\/\/img.gfx.no\/1005\/1005739\/intel2.jpg",
+            "published": "2012-02-16T12:30:50+01:00",
+            "author": "Jørgen Elton Nilsen",
+            "numComments": "42"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/na-er-intels-nye-prosessor-i-butikken\/108819",
+            "title": "Nå er Intels nye prosessor i butikken",
+            "image": "http:\/\/img.gfx.no\/1025\/1025434\/int2.jpg",
+            "published": "2012-04-30T05:30:40+02:00",
+            "author": "Jørgen Elton Nilsen",
+            "numComments": "46"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/her-er-amds-helt-nye-prosessor\/109265",
+            "title": "Her er AMDs helt nye prosessor",
+            "image": "http:\/\/img.gfx.no\/1030\/1030612\/trinity1.jpg",
+            "published": "2012-05-15T10:25:46+02:00",
+            "author": "Jørgen Elton Nilsen",
+            "numComments": "81"
+        }
+    ],
+    "Vegard Ottervig": [
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/denne-alt-i-ett-pc-en-far-ivy-bridge\/107729",
+            "title": "Ny alt-i-ett-PC fra Lenovo",
+            "image": "http:\/\/img.gfx.no\/1016\/1016329\/1.jpg",
+            "published": "2012-03-20T13:27:07+01:00",
+            "author": "Vegard Ottervig",
+            "numComments": "0"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/apple_slanker_sine_b--rbare\/106735",
+            "title": "Apple slanker sine bærbare",
+            "image": "http:\/\/img.gfx.no\/1005\/1005501\/1200x800%20copy.jpg",
+            "published": "2012-02-16T13:03:09+01:00",
+            "author": "Vegard Ottervig",
+            "numComments": "1"
+        },
+        {
+            "url": "http:\/\/www.tek.no\/artikler\/apple_slanker_sine_b--rbare\/106704",
+            "title": "Apple slanker sine bærbare",
+            "image": "http:\/\/img.gfx.no\/1005\/1005501\/1200x800%20copy.jpg",
+            "published": "2012-02-16T11:30:19+01:00",
+            "author": "Vegard Ottervig",
+            "numComments": "22"
+        }
+    ]
+}
+
